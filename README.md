@@ -5,12 +5,9 @@ ActiveRecordのバグ報告テンプレートをVSCodeのリモートコンテ�
 * [SQLite3用](https://github.com/mh-mobile/vscode_remote_containers_for_active_record/tree/master/containers/sqlite)
 * [PostgreSQL用](https://github.com/mh-mobile/vscode_remote_containers_for_active_record/tree/master/containers/postgres)
 
-# 前提
-
-ホストOSにDockerがインストールされている必要があります。
-
 # 使い方
 
+ホストOSにDockerがインストールされている必要があります。
 
 ## リモートコンテナの起動
 
