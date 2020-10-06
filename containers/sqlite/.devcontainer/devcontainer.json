@@ -1,17 +1,17 @@
 {
-	"name": "Ruby 2.7 & SQLite3",
-	"dockerComposeFile": "docker-compose.yml",
-	"service": "app",
-	"workspaceFolder": "/workspace",
+  "name": "Ruby 2.7 & SQLite3",
+  "dockerComposeFile": "docker-compose.yml",
+  "service": "app",
+  "workspaceFolder": "/workspace",
 
-	// Set *default* container specific settings.json values on container create.
-	"settings": { 
-		"terminal.integrated.shell.linux": "/bin/bash",
-	},
+  // Set *default* container specific settings.json values on container create.
+  "settings": { 
+    "terminal.integrated.shell.linux": "/bin/bash",
+  },
 
-	// Add the IDs of extensions you want installed when the container is created.
-	"extensions": [
-		"rebornix.Ruby"
-	],
+  // Add the IDs of extensions you want installed when the container is created.
+  "extensions": [
+    "rebornix.Ruby"
+  ],
 
 }
