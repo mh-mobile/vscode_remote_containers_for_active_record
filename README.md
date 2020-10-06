@@ -79,3 +79,5 @@ Database: postgres
 ユーザー名: postgres
 パスワード: postgres
 ```
+
+また、VSCodeの拡張の[SQL Server (mssql)](https://marketplace.visualstudio.com/items?itemName=ms-mssql.mssql)を使って接続することもできます。
