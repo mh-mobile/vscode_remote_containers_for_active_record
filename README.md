@@ -7,6 +7,8 @@ ActiveRecordのバグ報告テンプレートをVSCodeのリモートコンテ�
 
 # 使い方
 
+ホストOSにDockerがインストールされている必要があります。
+
 ## リモートコンテナの起動
 
 .devcontainerが配置されたディレクトリをVSCodeで読み込みます。
