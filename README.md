@@ -1,4 +1,4 @@
-# vscode_remote_containers_for_active_record
+# Vscode Remote Containers for ActiveRecord
 
 ActiveRecordのバグ報告テンプレートをVSCodeのリモートコンテナーで使えるように移植したコードです。
 
