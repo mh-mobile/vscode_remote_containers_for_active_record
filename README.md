@@ -68,7 +68,7 @@ Finished in 0.041041s, 24.3659 runs/s, 73.0976 assertions/s.
 1 runs, 3 assertions, 0 failures, 0 errors, 0 skips
 ```
 
-## PostgreSQLとSQLクライアントを接続
+## PostgreSQLとSQLクライアントの接続
 
 PostgreSQL用のリモートコンテナを起動した場合、PostgreSQLが5000番ポートでローカルホストに公開されます。
 SQLクライアントで以下の情報を入力し、接続することができます。
