@@ -80,4 +80,4 @@ Database: postgres
 パスワード: postgres
 ```
 
-また、VSCodeの拡張の[SQL Server (mssql)](https://marketplace.visualstudio.com/items?itemName=ms-mssql.mssql)を使って接続することもできます。
+また、VSCodeの拡張機能の[SQL Server (mssql)](https://marketplace.visualstudio.com/items?itemName=ms-mssql.mssql)を使って接続することもできます。
