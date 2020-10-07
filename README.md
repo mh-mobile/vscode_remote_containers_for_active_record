@@ -1,11 +1,6 @@
-# Vscode Remote Containers for ActiveRecord
+# Vscode Remote Containers for ActiveRecord (PostgreSQL)
 
-ActiveRecordの[バグ報告テンプレート](https://github.com/rails/rails/blob/master/guides/bug_report_templates/active_record_gem.rb)をVSCodeのリモートコンテナーで使えるように移植したコードです。
-
-* [SQLite3用](https://github.com/mh-mobile/vscode_remote_containers_for_active_record/tree/master/containers/sqlite)
-* [PostgreSQL用](https://github.com/mh-mobile/vscode_remote_containers_for_active_record/tree/master/containers/postgres)
-
-# 使い方
+ActiveRecordの[バグ報告テンプレート](https://github.com/rails/rails/blob/master/guides/bug_report_templates/active_record_gem.rb)をVSCodeのリモートコンテナーで使えるように移植したコードです。SQLite3の代わりにデータベースにPostgreSQLを使います。
 
 ホストOSにDockerがインストールされている必要があります。
 
